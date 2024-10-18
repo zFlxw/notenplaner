@@ -1,0 +1,21 @@
+meta {
+  name: Update One
+  type: http
+  seq: 4
+}
+
+patch {
+  url: {{url}}/test/:id
+  body: json
+  auth: none
+}
+
+params:path {
+  id: 1
+}
+
+body:json {
+  {
+    "testField": "Some test value"
+  }
+}
