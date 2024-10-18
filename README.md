@@ -16,4 +16,4 @@ Eine Anleitung zu den Build Steps für Front- und Backend befindet sich im jewei
 
 ## ©️ Lizenz
 
-Die Lizenzbestimmungen finden sich in der [LICENSE]("./LICENSE") Datei.
+Dieses Projekt ist unter der [GNU General Public License v3.0](./LICENSE) lizenziert.
